@@ -1,7 +1,0 @@
-v: 0
-app_name: "FAPI SAMPLE"
-micros:  
-- Nome: AppFastAPI   
-src: ./    
-Motor: python3.9    
-dev: .venv/bin/uvicorn app:app --reload
